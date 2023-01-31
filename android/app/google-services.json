@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "497327083118",
+    "project_id": "fleetgroupproject",
+    "storage_bucket": "fleetgroupproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497327083118:android:1caef9ba42232042b1a07f",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497327083118-hlnvgj46vlcd2ff6hrjehphp7gcnlml4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7HTxiqXsjfpetysK3QEEDRB5qSmBPBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497327083118-hlnvgj46vlcd2ff6hrjehphp7gcnlml4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497327083118-337fkacok2g152ioo2dp081bm93m2c15.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginPage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
